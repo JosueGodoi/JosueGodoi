@@ -25,7 +25,7 @@ I’m currently working on ...
 - 📫 How to reach me: [Twitter - @_Josue9223_](https://twitter.com/_Josue9223_) , [Instagram - @jojoagodoi](https://www.instagram.com/jojoagodoi/)
 - ⚡ Fun fact: I'm really excited about any project and I'm listening to music all the time
 
-[![Twitter: _Josue9223_](https://img.shields.io/twitter/follow/_Josue9223_?style=social)](https://twitter.com/ghhc_)
+[![Twitter: _Josue9223_](https://img.shields.io/twitter/follow/_Josue9223_?style=social)](https://twitter.com/_Josue9223_)
 [![GitHub JosueGodoi](https://img.shields.io/github/followers/JosueGodoi?label=follow&style=social)](https://github.com/JosueGodoi)
 *Languages and Tools:*  
 
@@ -50,4 +50,3 @@ I’m currently working on ...
 ### Thank you for visit to my profile ❤️
 
 </div>
-
