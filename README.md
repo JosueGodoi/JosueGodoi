@@ -26,7 +26,7 @@ I’m currently working on ...
 - ⚡ Fun fact: I'm really excited about any project and I'm listening to music all the time
 
 [![Twitter: _Josue9223_](https://img.shields.io/twitter/follow/_Josue9223_?style=social)](https://twitter.com/ghhc_)
-[![GitHub JosueGodoi](https://img.shields.io/github/followers/JosueGodoi?label=follow&style=social)](https://github.com/ghenriquec)
+[![GitHub JosueGodoi](https://img.shields.io/github/followers/JosueGodoi?label=follow&style=social)](https://github.com/JosueGodoi)
 *Languages and Tools:*  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -50,3 +50,4 @@ I’m currently working on ...
 ### Thank you for visit to my profile ❤️
 
 </div>
+
