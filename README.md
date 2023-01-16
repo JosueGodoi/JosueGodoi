@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JosueGodoi&label=Views&color=green&style=plastic" alt="iampawan" /> </p>
 
-<a href="https://twitter.com/_Josue9223_">
+<a href="[https://twitter.com/_Josue9223_](https://twitter.com/O_josuegodoi)">
   <img align="left" alt="Guilherme Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://github.com/JosueGodoi">
